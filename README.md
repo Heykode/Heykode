@@ -4,9 +4,11 @@
 
 | 🚀 PROJECT | ⭐ STARS | 🔧 LANG |
 |---|---|---|
-| OpenClaw | ![Stars](https://img.shields.io/github/stars/你的用户名/OpenClaw?style=flat-square) | Python |
-| StepClaw | ![Stars](https://img.shields.io/github/stars/你的用户名/StepClaw?style=flat-square) | TS/JS |
-| ReignUI | ![Stars](https://img.shields.io/github/stars/你的用户名/ReignUI?style=flat-square) | CSS/JS |
+| 🚀 PROJECT | ⭐ STARS | 🔧 LANG |
+|---|---|---|
+| skill-researcher-ultimate | ![Stars](https://img.shields.io/github/stars/hekuang857-byte/skill-researcher-ultimate?style=flat-square) | JavaScript |
+| OpenReign-pro | ![Stars](https://img.shields.io/github/stars/hekuang857-byte/OpenReign-pro?style=flat-square) | - |
+
 
 ### 🎯 SKILLS
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge)
