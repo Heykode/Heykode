@@ -13,7 +13,7 @@
 Building useful automation, agent workflows, and small products with clean interfaces.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Heykode-181717?style=for-the-badge&logo=github)](https://github.com/Heykode)
-[![Profile Views](https://komarev.com/ghpvc/?username=Heykode&color=00d4ff&style=for-the-badge&label=Profile+Views)](https://github.com/Heykode)
+[![Stars](https://img.shields.io/github/stars/Heykode?style=for-the-badge&logo=starship&color=yellow&label=Total%20Stars)](https://github.com/Heykode)
 
 </div>
 
@@ -34,10 +34,10 @@ Building useful automation, agent workflows, and small products with clean inter
 
 <div align="center">
 
-## Featured Project
+## ⚡ Featured Projects
 
 <a href="https://github.com/Heykode/OpenReign-pro">
-  <img src="assets/card-openreign-pro.svg" alt="OpenReign-pro" width="72%" />
+  <img src="assets/card-openreign-pro.svg" alt="OpenReign-pro" width="100%" />
 </a>
 
 <br />
@@ -53,7 +53,7 @@ Building useful automation, agent workflows, and small products with clean inter
 
 <div align="center">
 
-## Tooling Stack
+## 🛠 Tech Stack
 
 **Languages and runtime**
 
@@ -76,7 +76,7 @@ Building useful automation, agent workflows, and small products with clean inter
 
 <div align="center">
 
-## Contribution Graph
+## 📈 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heykode/Heykode/output/github-snake-dark.svg" />
@@ -90,6 +90,8 @@ Building useful automation, agent workflows, and small products with clean inter
 
 <div align="center">
   <img src="assets/footer-wave.svg" alt="" width="100%" />
+
+  <img src="https://komarev.com/ghpvc/?username=Heykode&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 ```text
 The cleanest workflow is the one that makes useful things easier to ship.
